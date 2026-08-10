@@ -1,0 +1,14 @@
+#profile-title: 🐌 VPN
+#profile-update-interval: 1
+#announce: ❗️если vpn не работает нажмите 🔄 , после ⏱ и выберите с наименьшими пингом.
+#subscription-userinfo: upload=0; download=0; total=999999999999999; expire=2366841600
+
+vless://acaa5ad2-417a-43db-8255-b7f1a90973f1@147.45.61.3:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#Auto server
+vless://acaa5ad2-417a-43db-8255-b7f1a90973f1@194.26.192.219:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#🇳🇱 Netherlands  ⚡️
+vless://acaa5ad2-417a-43db-8255-b7f1a90973f1@194.26.192.57:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#🇳🇱 Netherlands 2 ⚡️
+vless://acaa5ad2-417a-43db-8255-b7f1a90973f1@144.31.168.137:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#🇩🇪 Germany⚡️
+vless://acaa5ad2-417a-43db-8255-b7f1a90973f1@2.26.124.195:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#🇸🇪 Sweden⚡️
+vless://acaa5ad2-417a-43db-8255-b7f1a90973f1@2.26.27.49:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#🇫🇮 Finland  ⚡️
+vless://acaa5ad2-417a-43db-8255-b7f1a90973f1@193.26.115.28:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#🇺🇸 USA ⚡️ Gemini ready
+vless://acaa5ad2-417a-43db-8255-b7f1a90973f1@155.212.175.19:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.com&fp=qq&pbk=Dcb04OZydR58J8AhxcAl7khFbXp-WcCsuhnC1xJJKjA&sid=a987b6bd1781daa3#🇷🇺 Russia (Для доступа из-за рубежа)
+vless://acaa5ad2-417a-43db-8255-b7f1a90973f1@cdn.x5specially.online:443?encryption=none&type=xhttp&path=/api-test&host=cdn.x5specially.online&mode=packet-up&extra={"mode":"packet-up","xPaddingKey":"dc","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","uplinkHTTPMethod":"OPTIONS","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","scMaxBufferedPosts":30,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30}&security=tls&sni=cdn.x5specially.online&fp=chrome&alpn=h2,http/1.1#🏳️ Белые списки
